@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 130px 20px 0px 20px;
+}
+.tag{
+	flex-basis: 50%;
+	width: 50%;
+	padding-left: 70px;
+}
+.tag h1{
+    width: 340px;
+}
+.tag p{
+    font-size: 12px;
+    width: 340px;
+    color: #0a0a0ab8;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 20px;
+}
+.aa{
+    background: #237be5;
+    padding: 10px;
+}
+.aa a{
+    color: white;
+    text-decoration: none;
+}
+.bb{
+    padding: 10px 0px 0px 40px;
+}
+.bb a{
+    text-decoration: none;
+}
+
+.pic{
+	flex-basis: 50%;
+    width: 50%;
+}
+.pic img{
+	width: 400px;
+	margin-left: 30px;
+}
+.last{
+    padding-top: 35px;
+}
+.logo{
+    margin: auto;
+    width: 1250px;
+    background: #dad3e280;
+    margin-top: 60px;
+    margin-bottom: 160px;
+}
+.logo h3{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 13px;
+}
+.log{text-align: center;}
+.log a img{
+    padding: 17px;
+}
+.what{
+    text-align: center;
+}
+.what p{
+    font-size: 12px;
+    padding: 30px;
+    padding-left: 478px;
+    padding-right: 471px;
+    color: #0a0a0ab8;
+}
+.cont{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.imag{
+    width: 50%;
+}
+.imag img{padding-left: 200px;}
+.pp{
+    width: 50%;
+    padding-right: 193px;
+}
+.pp h3{}
+.pp p{}
